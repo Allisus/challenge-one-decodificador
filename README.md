@@ -34,10 +34,6 @@ O objetivo principal deste projeto é criar um decodificador de texto que permit
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou enviar pull requests para tornar este projeto ainda mais robusto e educativo.
 
-## Licença
-
-Este projeto é distribuído sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
-
 ## Agradecimentos
 
 Agradecemos à Oracle e à Alura por inspirarem este desafio educacional. Esperamos que este projeto contribua para a aprendizagem e desenvolvimento de habilidades práticas em programação web.
